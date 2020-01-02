@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="menu_xslt.xsl"?>
+<menu>
+
+  <food>
+    <name>Kettle Chips</name>
+    <price>$5.95</price>
+    <description>Fried potato slices, fresh herbs, truffle oil and shaved parmesan</description>
+    <calories>900</calories>
+  </food>
+  
+  <food>
+    <name>Fried Pickles</name>
+    <price>$6.95</price>
+    <description>Dill pickles, beer battered and deep fried, served with garlic aoili</description>
+    <calories>700</calories>
+  </food>
+  
+  <food>
+    <name>Spent Grain Pretzel</name>
+    <price>$9.95</price>
+    <description>House-made using spent grain from the local brewing company, served with bavarian mustard</description>
+    <calories>800</calories>
+  </food>
+  
+  <food>
+    <name>Scotch Egg</name>
+    <price>$8.50</price>
+    <description>Breaded, sausage-wrapped hardboiled egg, served with honey maple mustard</description>
+    <calories>750</calories>
+  </food>
+  
+  <food>
+    <name>House Burger</name>
+    <price>$12.95</price>
+    <description>Angus beef, mustard cheese, garlic aioli, carmelized onions, bacon, butter lettuce, brioche bun</description>
+    <calories>1050</calories>
+  </food>
+  
+  <food>
+    <name>Cottage Pie</name>
+    <price>$10.95</price>
+    <description>Angu chuck, root vegetables, mashed potatoes, aged vermont cheddar</description>
+    <calories>1050</calories>
+  </food>
+  
+  <food>
+    <name>Vegetable Pie</name>
+    <price>$11.95</price>
+    <description>Seasonal root vegetables, mashed potatoes, aged vermont cheddar</description>
+    <calories>950</calories>
+  </food>
+  
+  <food>
+    <name>OLD MARKET Dog</name>
+    <price>$13.95</price>
+    <description>Nathan's all-beef frank, bacon, carmelized onions and peppers, with bavarian mustard</description>
+    <calories>1000</calories>
+  </food>
+  
+  <food>
+    <name>Bread Pudding</name>
+    <price>$10.95</price>
+    <description>Brioche, creme anglaise, cranberry, apple, whipped cream and caramel sauce</description>
+    <calories>1000</calories>
+  </food>
+  
+  <food>
+    <name>Kaffir Lime Cheesecake</name>
+    <price>$10.95</price>
+    <description>Graham cracker crust, blackberry compote</description>
+    <calories>800</calories>
+  </food>
+
+</menu>
